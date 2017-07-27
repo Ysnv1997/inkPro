@@ -577,6 +577,7 @@ input.text {
 @media screen and (max-width: 500px){
   .m{width:100%;}
   .post{width:90%;}
+  .box{width:90%;}
     .comments{width:100%;}
   .footer img{width:10em;}
   .footer-image{width:100%;}
